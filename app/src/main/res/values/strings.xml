@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KidChore</string>
+    <string name="todo">whatever</string>
+    <string name="get_choring">Get Choring!</string>
+    <string name="childchore">Child Chore</string>
+    <string name="hello">Hello</string>
+</resources>
